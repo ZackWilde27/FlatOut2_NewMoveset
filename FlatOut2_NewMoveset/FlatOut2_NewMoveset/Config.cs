@@ -38,7 +38,7 @@ namespace FlatOut2_NewMoveset.Configuration
         public bool EnableBoost { get; set; } = true;
 
         [DisplayName("Enable Jump")]
-        [Description("Press and release W to jump, the longer you hold space, the higher you'll go")]
+        [Description("Press W to jump, the longer you hold it, the higher you'll go")]
         [DefaultValue(true)]
         public bool EnableJump { get; set; } = true;
 
