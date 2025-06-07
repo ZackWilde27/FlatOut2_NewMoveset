@@ -28,12 +28,12 @@ namespace FlatOut2_NewMoveset.Configuration
         */
 
         [DisplayName("Enable Glide")]
-        [Description("Holding shift will cancel out gravity")]
+        [Description("Holding S will cancel out gravity")]
         [DefaultValue(true)]
         public bool EnableGlide { get; set; } = true;
 
         [DisplayName("Enable Boost")]
-        [Description("Pressing the boost button twice will trade a 3rd of your nitro to tripple your speed instantly, kinda like the boost mechanic in sonic games")]
+        [Description("Pressing Ctrl twice will trade a 3rd of your nitro to tripple your speed instantly, kinda like the boost mechanic in sonic games")]
         [DefaultValue(true)]
         public bool EnableBoost { get; set; } = true;
 
