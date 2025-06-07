@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatOut2_NewMoveset", "FlatOut2_NewMoveset\FlatOut2_NewMoveset.csproj", "{C2AA46BA-A86F-4892-B06B-6F61EEBBC42C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatOut2.SDK", "C:\Users\zackw\Documents\GitHub\FlatOut2.SDK\FlatOut2.SDK\FlatOut2.SDK.csproj", "{78BD422E-1DA8-7C15-8889-FEF7FAAC9B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AA46BA-A86F-4892-B06B-6F61EEBBC42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AA46BA-A86F-4892-B06B-6F61EEBBC42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AA46BA-A86F-4892-B06B-6F61EEBBC42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AA46BA-A86F-4892-B06B-6F61EEBBC42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BD422E-1DA8-7C15-8889-FEF7FAAC9B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BD422E-1DA8-7C15-8889-FEF7FAAC9B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BD422E-1DA8-7C15-8889-FEF7FAAC9B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BD422E-1DA8-7C15-8889-FEF7FAAC9B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BD5FEA-39CA-40A7-8572-C9148CF7CCF2}
+	EndGlobalSection
+EndGlobal

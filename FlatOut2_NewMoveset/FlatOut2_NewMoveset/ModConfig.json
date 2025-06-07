@@ -1,0 +1,28 @@
+{
+  "ModId": "FlatOut2_NewMoveset",
+  "ModName": "FlatOut2_NewMoveset",
+  "ModAuthor": "Zack Wilde",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Adds new abilities to the game, W to jump, A and D to strafe, S to glide, and Control twice to do a special boost.",
+  "ModDll": "FlatOut2_NewMoveset.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/FlatOut2_NewMoveset.dll",
+  "ModR2RManagedDll64": "x64/FlatOut2_NewMoveset.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "FlatOut2_NewMoveset.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "flatout2.exe"
+  ],
+  "ProjectUrl": ""
+}
